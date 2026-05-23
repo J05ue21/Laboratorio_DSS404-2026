@@ -1,6 +1,8 @@
-# Laboratorio_DSS404-2026
-Espacio creado para alojar actividades de Laboratorio de la asignatura "Desarrollo de Aplicaciones Web con Software Interpretado en el Servidor"
+Laboratorio_DSS404-2026
 
+"Desarrollo de Aplicaciones Web con Software Interpretado en el Servidor"
 Instructor/Docente de la asignatura: Ing. Kevin Jiménez
+DESAFIO PRACTICO III
 
-A medida se agregen Guías / Evaluados prácticos, se incorporarán a este repositorio en su respectiva rama
+Desarrollo de Aplicación Web con el framework Laravel y el modelo arquitectónico MVC (Modelo – Vista – Controlador)
+Sistema de Reservación de Citas Médicas
